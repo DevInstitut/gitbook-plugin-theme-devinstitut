@@ -28,7 +28,3 @@ cp -R node_modules/font-awesome/fonts/ _assets/website/fonts/fontawesome/
 mkdir -p _assets/website/images
 cp node_modules/gitbook-logos/output/favicon.ico _assets/website/images/
 cp node_modules/gitbook-logos/output/apple-touch-icon-152.png _assets/website/images/apple-touch-icon-precomposed-152.png
-
-# gitbook-plugin-insert-logo
-mkdir -p _assets/plugins/gitbook-plugin-insert-logo
-cp -R node_modules/gitbook-plugin-insert-logo/* _assets/plugins/gitbook-plugin-insert-logo
