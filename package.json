@@ -1,14 +1,14 @@
 {
-  "name": "gitbook-plugin-theme-code",
+  "name": "gitbook-plugin-theme-devinstitut",
   "keywords": [
     "gitbook",
     "plugin",
     "theme"
   ],
-  "description": "A GitBook theme for websites focusing on code",
+  "description": "A GitBook theme for Dev Institut training materials",
   "main": "./index.js",
   "private": false,
-  "version": "0.0.19",
+  "version": "0.0.1",
   "engines": {
     "gitbook": ">=3.0.0"
   },
@@ -20,6 +20,7 @@
     "preboot": "git+https://github.com/mdo/preboot.git#4aab4edd85f076d50609cbe28e4fe66cc0771701",
     "gitbook-logos": "git+https://github.com/GitbookIO/logos.git#2.0.2",
     "gitbook-markdown-css": "1.0.1",
+    "gitbook-plugin-insert-logo": "0.1.5",
     "jquery": "3.1.1",
     "less": "2.7.1",
     "less-plugin-clean-css": "1.5.1",
@@ -31,12 +32,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Yakima-Teng/gitbook-plugin-theme-code.git"
+    "url": "https://github.com/DevInstitut/gitbook-plugin-theme-devinstitut.git"
   },
-  "author": "Yakima Teng. <cleveryun@163.com>",
-  "license": "Apache-2.0",
+  "author": "Rossi Oddet <rossi@roddet.com>",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Yakima-Teng/gitbook-plugin-theme-code/issues"
+    "url": "https://github.com/DevInstitut/gitbook-plugin-theme-devinstitut/issues"
   },
   "gitbook": {
     "properties": {
