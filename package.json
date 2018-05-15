@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-theme-devinstitut",
+  "name": "@devinstitut/gitbook-plugin-theme-devinstitut",
   "keywords": [
     "gitbook",
     "plugin",
@@ -8,7 +8,7 @@
   "description": "A GitBook theme for Dev Institut training materials",
   "main": "./index.js",
   "private": false,
-  "version": "0.0.1-alpha-1",
+  "version": "0.0.1-alpha-2",
   "engines": {
     "gitbook": ">=3.0.0"
   },
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DevInstitut/gitbook-plugin-theme-devinstitut.git"
+    "url": "git+https://github.com/DevInstitut/gitbook-plugin-theme-devinstitut.git"
   },
   "author": "Rossi Oddet <rossi@roddet.com>",
   "license": "MIT",
@@ -77,5 +77,6 @@
         "default": false
       }
     }
-  }
+  },
+  "homepage": "https://github.com/DevInstitut/gitbook-plugin-theme-devinstitut#readme"
 }
