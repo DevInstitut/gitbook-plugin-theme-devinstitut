@@ -1,5 +1,5 @@
 {
-  "name": "@devinstitut/gitbook-plugin-theme-devinstitut",
+  "name": "gitbook-plugin-theme-devinstitut",
   "keywords": [
     "gitbook",
     "plugin",
@@ -8,7 +8,7 @@
   "description": "A GitBook theme for Dev Institut training materials",
   "main": "./index.js",
   "private": false,
-  "version": "0.0.1-alpha-2",
+  "version": "0.0.1-alpha-3",
   "engines": {
     "gitbook": ">=3.0.0"
   },
